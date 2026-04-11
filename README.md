@@ -68,7 +68,7 @@ Honest assessments — including reasons NOT to use OpenClaw.
 | Guide | What you'll learn |
 |---|---|
 | [OpenClaw vs Cowork vs n8n](comparisons/openclaw-vs-cowork-vs-n8n.md) | Reddit community consensus: when to use which |
-| [Toy or Tool?](comparisons/toy-or-tool.md) | 30+ real cases analyzed, 6 CVEs covered, security reality check 🇨🇳 |
+| [Toy or Tool?](comparisons/toy-or-tool.md) | 30+ real cases analyzed, 14+ CVEs covered (incl. CVE-2026-33579), security reality check 🇨🇳 |
 | [Claude Desktop Alternative](comparisons/claude-desktop-alternative.md) | Replicate 80% of OpenClaw features without command line 🇨🇳 |
 | [Who Doesn't Need OpenClaw](comparisons/who-doesnt-need-openclaw.md) | Contrarian take: 99% aren't ready — and why that's fine 🇨🇳 |
 
@@ -95,7 +95,22 @@ Bigger-picture thinking on where agents are headed.
 | [Chinese Community Top 12](perspectives/chinese-community-top-12.md) | Curated best-of from 100+ Chinese OpenClaw posts 🇨🇳 |
 
 ### [Workshops](workshops/)
-Materials from live workshops. More coming after April 2026.
+Materials from live workshops.
+
+### [Daily Scans](daily-scans/)
+Daily signal digests — top posts, articles, and community discussions curated from Reddit, HN, DEV.to, and X.
+
+| Scan | Highlights |
+|---|---|
+| [2026-04-12](daily-scans/2026-04-12.md) | GLM-5.1/4.7 as new model defaults · Gemma 4 on MacBook Air 16GB · @steipete on Anthropic ban · bypass culture |
+| [2026-04-11](daily-scans/2026-04-11.md) | Anthropic cuts OpenClaw from subscriptions · CVE-2026-33579 · Claude Code/OpenClaw convergence _(catch-up: Mar 29–Apr 11)_ |
+| [2026-03-28](daily-scans/2026-03-28.md) | Breaking update migration pain · Forbes/NVIDIA enterprise legitimacy · WebTop zero-install onboarding |
+| [2026-03-27](daily-scans/2026-03-27.md) | |
+| [2026-03-26](daily-scans/2026-03-26.md) | |
+| [2026-03-25](daily-scans/2026-03-25.md) | |
+| [2026-03-24](daily-scans/2026-03-24.md) | |
+| [2026-03-23](daily-scans/2026-03-23.md) | |
+| [2026-03-22](daily-scans/2026-03-22.md) | Security & isolation dominates · Red Hat BYOA integration · 215k GitHub stars |
 
 ---
 
@@ -115,7 +130,7 @@ Found a great OpenClaw article, thread, or guide? Open an issue or PR. We especi
 
 ## About
 
-Maintained by [Ray Han](https://rayhan.ai) — running OpenClaw in production since early 2026. This cookbook is a living document that grows daily through automated content scanning.
+Maintained by [Ray Han](https://rayhan.ai) — running OpenClaw in production since early 2026. This cookbook is a living document updated through automated content scanning, with daily signal digests in [`daily-scans/`](daily-scans/).
 
 Also see: [awesome-openclaw](https://github.com/SamurAIGPT/awesome-openclaw) for a comprehensive link directory.
 
